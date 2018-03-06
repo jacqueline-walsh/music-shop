@@ -1,6 +1,6 @@
 # README
 
-test 060318 gary and barry
+changing this test 060318 gary and barry 11.52
 
 
 This README would normally document whatever steps are necessary to get the
